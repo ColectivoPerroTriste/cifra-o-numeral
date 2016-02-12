@@ -13,7 +13,7 @@ Para cualquier sugerencia o comentario, [escríbenos](mailto:contacto@perrotrist
 Existen tres carpetas:
 - `www`. El contenido en su versión *web* junto con todos los archivos necesarios para su funcionamiento.
 - `app`. El contenido en una versión para Mac OSX hecha con [`MacGap`](https://github.com/MacGapProject/MacGap1).
-- `externos`. El borrador del contenido realizado en donde se pueden ver el flujo de las ventanas.
+- `externos`. El borrador del contenido realizado en donde se puede ver el flujo de las ventanas.
 
 ##Licencia
 
