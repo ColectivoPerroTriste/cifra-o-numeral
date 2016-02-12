@@ -1,3 +1,1 @@
 # Cifra o numeral
-
-Hola.
