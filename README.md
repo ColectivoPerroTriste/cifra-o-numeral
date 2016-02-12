@@ -1,4 +1,4 @@
-# Cifra o numeral: Redacción de las expresiones numéricas
+# Cifra o numeral
 
 ##Descripción
 
@@ -11,6 +11,6 @@ Para cualquier sugerencia o comentario, [escríbenos](mailto:contacto@perrotrist
 ##Carpetas
 
 Existen tres carpetas:
--`www`.
--`app`.
--`externos`.
+- `www`.
+- `app`.
+- `externos`.
