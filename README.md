@@ -2,7 +2,7 @@
 
 ##Descripción
 
-[Ver en línea](http://cifraonumeral.perrotriste.org/){:target="_blank"}.
+[Ver en línea](http://cifraonumeral.perrotriste.org/){target="_blank"}.
 
 Este pequeño contenido está pensado para ser una guía sobre cómo escribir las expresiones de números arábigos. No pretende ser exhaustiva; sin embargo, basa sus lineamientos en la *Ortografía* de la RAE del 2010.
 
