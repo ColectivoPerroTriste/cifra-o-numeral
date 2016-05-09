@@ -9,7 +9,7 @@ var tituloPagina    =   [
                             "Número entero",
                             "Número entero con decimal",
                             "Número decimal",
-                            "Número fracionario",
+                            "Número fraccionario",
                             "Porcentaje",
                             "Fecha",
                             "Hora"

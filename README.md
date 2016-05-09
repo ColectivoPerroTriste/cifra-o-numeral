@@ -8,6 +8,8 @@ Este pequeño contenido está pensado para ser una guía sobre cómo escribir la
 
 Para cualquier sugerencia o comentario, [escríbenos](mailto:contacto@perrotriste.org).
 
+**Nota: actualmente la *app* se encuentra desactualizada (contiene algunas erratas).**
+
 ##Carpetas
 
 Existen tres carpetas:
