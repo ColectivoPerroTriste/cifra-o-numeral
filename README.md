@@ -19,4 +19,4 @@ Existen tres carpetas:
 
 ## Licencia
 
-El contenido está bajo la Licencia Pública General de GNU versión 3.
+Las herramientas están bajo licencia GPL v3.
