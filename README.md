@@ -1,6 +1,6 @@
 # Cifra o numeral
 
-##Descripción
+## Descripción
 
 [Ver en línea](http://cifraonumeral.perrotriste.io/).
 
@@ -10,13 +10,13 @@ Para cualquier sugerencia o comentario, [escríbenos](mailto:contacto@perrotrist
 
 **Nota: actualmente la *app* se encuentra desactualizada (contiene algunas erratas).**
 
-##Carpetas
+## Carpetas
 
 Existen tres carpetas:
 - `www`. El contenido en su versión *web* junto con todos los archivos necesarios para su funcionamiento.
 - `app`. El contenido en una versión para Mac OSX hecha con [`MacGap`](https://github.com/MacGapProject/MacGap1).
 - `externos`. El borrador del contenido realizado en donde se puede ver el flujo de las ventanas.
 
-##Licencia
+## Licencia
 
 El contenido está bajo la Licencia Pública General de GNU versión 3.
